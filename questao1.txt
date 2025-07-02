@@ -1,1 +1,1 @@
-o método apenas reverte o vetore.
+o método apenas reverte o vetor.
